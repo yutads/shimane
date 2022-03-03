@@ -1,7 +1,0 @@
-Requirement already satisfied: horovod in /home/1/16B14626/.local/lib/python3.6/site-packages (0.23.0)
-Requirement already satisfied: cloudpickle in /home/1/16B14626/.local/lib/python3.6/site-packages (from horovod) (2.0.0)
-Requirement already satisfied: psutil in /home/1/16B14626/.local/lib/python3.6/site-packages (from horovod) (5.8.0)
-Requirement already satisfied: pyyaml in /home/1/16B14626/.local/lib/python3.6/site-packages (from horovod) (6.0)
-Requirement already satisfied: cffi>=1.4.0 in /home/1/16B14626/.local/lib/python3.6/site-packages (from horovod) (1.15.0)
-Requirement already satisfied: dataclasses in /home/1/16B14626/.local/lib/python3.6/site-packages (from horovod) (0.8)
-Requirement already satisfied: pycparser in /home/1/16B14626/.local/lib/python3.6/site-packages (from cffi>=1.4.0->horovod) (2.21)
