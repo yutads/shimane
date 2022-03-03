@@ -12,30 +12,12 @@ module load cuda
 module load intel
 module load jupyterlab
 
-#craddock
-#msdl
-#Yeo
-#aal
-#ho
-#destrieux
-#Dosenbach
-#Power
-#seitzman
-
-#python age_predict_LSTM.py msdl
-#python age_predict_LSTM.py Yeo
-
-#python age_predict_LSTM.py ho&
-#python age_predict_LSTM.py aal&
-#wait
-
-#python age_predict_LSTM.py destrieux&
-#python age_predict_LSTM.py Dosenbach&
-#wait
-
+python age_predict_LSTM.py msdl
+python age_predict_LSTM.py Yeo
+python age_predict_LSTM.py ho
+python age_predict_LSTM.py aal
+python age_predict_LSTM.py destrieux
 python age_predict_LSTM.py Dosenbach
-
-#python age_predict_LSTM.py Power
-#python age_predict_LSTM.py seitzman
-
-#python age_predict_LSTM.py craddock
+python age_predict_LSTM.py Power
+python age_predict_LSTM.py seitzman
+python age_predict_LSTM.py craddock

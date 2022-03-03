@@ -12,26 +12,12 @@ module load cuda
 module load intel
 module load jupyterlab
 
-#craddock
-#msdl
-#Yeo
-#aal
-#ho
-#destrieux
-#Dosenbach
-#Power
-#seitzman
-
-#python age_predict_transformer_single.py msdl
-#python age_predict_transformer_single.py Yeo
-
-#python age_predict_transformer_single.py ho
+python age_predict_transformer_single.py msdl
+python age_predict_transformer_single.py Yeo
+python age_predict_transformer_single.py ho
 python age_predict_transformer_single.py aal
-
-#python age_predict_transformer_single.py destrieux
-#python age_predict_transformer_single.py Dosenbach
-
-#python age_predict_transformer_single.py Power
-#python age_predict_transformer_single.py seitzman
-
-#python age_predict_transformer_single.py craddock
+python age_predict_transformer_single.py destrieux
+python age_predict_transformer_single.py Dosenbach
+python age_predict_transformer_single.py Power
+python age_predict_transformer_single.py seitzman
+python age_predict_transformer_single.py craddock
