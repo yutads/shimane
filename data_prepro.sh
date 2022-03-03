@@ -11,16 +11,6 @@ module load cuda
 module load intel
 module load jupyterlab
 
-#aal
-#ho
-#msdl
-#Yeo
-#destrieux
-#Dosenbach
-#Power
-#seitzman
-#craddock
-
 python data_prepro.py aal
 python data_prepro.py ho
 python data_prepro.py msdl
