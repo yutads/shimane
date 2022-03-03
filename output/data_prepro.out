@@ -1,0 +1,34 @@
+2021年12月30日 22:08:21
+start aal
+len(os.sched_getaffinity(0)):56
+2021年12月30日 22:47:13
+start ho
+len(os.sched_getaffinity(0)):56
+2021年12月30日 23:22:41
+start msdl
+len(os.sched_getaffinity(0)):56
+2021年12月30日 23:28:05
+start Yeo
+len(os.sched_getaffinity(0)):56
+2021年12月31日 00:07:40
+finish Yeo
+2021年12月31日 00:07:40
+start destrieux
+len(os.sched_getaffinity(0)):56
+2021年12月31日 01:11:50
+finish destrieux
+2021年12月31日 01:11:50
+start Dosenbach
+len(os.sched_getaffinity(0)):56
+2021年12月31日 02:26:00
+finish Dosenbach
+2021年12月31日 02:26:01
+start Power
+len(os.sched_getaffinity(0)):56
+2021年12月31日 06:02:49
+finish Power
+2021年12月31日 06:02:50
+start seitzman
+len(os.sched_getaffinity(0)):56
+2021年12月31日 10:49:28
+finish seitzman

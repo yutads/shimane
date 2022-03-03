@@ -1,0 +1,3 @@
+2021年12月30日 22:08:21
+start aal
+len(os.sched_getaffinity(0)):56
