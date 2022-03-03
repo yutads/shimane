@@ -1,0 +1,72 @@
+#参考
+#https://ichi.pro/kikai-gakushu-moderu-no-haipa-parame-ta-o-tsuisekisuru-hoho-wa-56051581849405
+#https://rightcode.co.jp/blog/information-technology/pytorch-yaml-optimizer-parameter-management-simple-method-complete
+project: age_predict
+name: age_predict
+param_transformer_ROI1:
+    epochs: 1000
+    d_mode: 256
+    hidden_dim: 1024
+    nhead: 32
+    hidden_dim_transformer: 2
+    pos_drop: 0.1
+    trans_drop: 0.2
+    fc_drop: 0.1
+    
+param_transformer_ROI2:
+    epochs: 1000
+    d_mode: 128
+    hidden_dim: 128
+    nhead: 32
+    hidden_dim_transformer: 2
+    pos_drop: 0.1
+    trans_drop: 0.1
+    fc_drop: 0.1
+    
+param_transformer_dFC1:
+    epochs: 700
+    d_mode: 64
+    hidden_dim: 256
+    nhead: 2
+    hidden_dim_transformer: 1
+    pos_drop: 0.3
+    trans_drop: 0.5
+    fc_drop: 0.3
+
+param_transformer_dFC2:
+    epochs: 700
+    d_mode: 128
+    hidden_dim: 128
+    nhead: 4
+    hidden_dim_transformer: 2
+    pos_drop: 0.3
+    trans_drop: 0.3
+    fc_drop: 0.3
+
+param_LSTM_ROI1:
+    epochs: 1000
+    hidden_dim: 128
+    num_layers: 2
+    fc_drop: 0.1
+    bidirectional: False
+    
+param_LSTM_ROI2:
+    epochs: 1000
+    hidden_dim: 128
+    num_layers: 2
+    fc_drop: 0.1
+    bidirectional: True
+    
+param_LSTM_dFC1:
+    epochs: 700
+    hidden_dim: 128
+    num_layers: 2
+    fc_drop: 0.1
+    bidirectional: False
+    
+param_LSTM_dFC2:
+    epochs: 700
+    hidden_dim: 128
+    num_layers: 2
+    fc_drop: 0.1
+    bidirectional: True

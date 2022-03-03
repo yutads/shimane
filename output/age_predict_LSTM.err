@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "age_predict_LSTM.py", line 21, in <module>
+    from my_def import transform_float_read
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 774
+    else:
+        ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "age_predict_LSTM.py", line 21, in <module>
+    from my_def import transform_float_read
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 774
+    else:
+        ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "age_predict_LSTM.py", line 21, in <module>
+    from my_def import transform_float_read
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 774
+    else:
+        ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "age_predict_LSTM.py", line 21, in <module>
+    from my_def import transform_float_read
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 774
+    else:
+        ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "age_predict_LSTM.py", line 158, in <module>
+    batch_size = 8
+  File "age_predict_LSTM.py", line 86, in nested_predict
+    batch_size = batch_size
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 555, in train_model_LSTM
+    x, t = x.to(device), t.to(device)
+RuntimeError: CUDA out of memory. Tried to allocate 674.00 MiB (GPU 0; 15.90 GiB total capacity; 4.77 GiB already allocated; 360.38 MiB free; 4.83 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

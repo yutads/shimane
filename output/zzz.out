@@ -1,0 +1,36 @@
+os.cpu_count():56
+len(os.sched_getaffinity(0)):56
+input_size:50000
+
+batch_size:40,num_workers:4 
+
+Let's use 4 GPUs!
+DataParallel : elapsed_time:17.724512100219727[sec]
+
+Let's use 4 GPUs!
+No DataParallel : elapsed_time:71.7856092453003[sec]
+
+batch_size:160,num_workers:4 
+
+Let's use 4 GPUs!
+DataParallel : elapsed_time:8.167464971542358[sec]
+
+Let's use 4 GPUs!
+No DataParallel : elapsed_time:73.43121886253357[sec]
+
+batch_size:40,num_workers:16 
+
+Let's use 4 GPUs!
+DataParallel : elapsed_time:10.249017238616943[sec]
+
+Let's use 4 GPUs!
+No DataParallel : elapsed_time:69.20488500595093[sec]
+
+batch_size:160,num_workers:16 
+
+Let's use 4 GPUs!
+DataParallel : elapsed_time:9.220083475112915[sec]
+
+Let's use 4 GPUs!
+No DataParallel : elapsed_time:76.22449445724487[sec]
+

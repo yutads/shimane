@@ -1,0 +1,1128 @@
+2022年01月09日 16:04:27
+start aal
+Nested 1 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03905247577599117, val loss: 0.7236058115959167
+Kfold: 1 ::: epoch: 400, loss: 0.018670603366834775, val loss: 0.6587463915348053
+Kfold: 1 ::: epoch: 600, loss: 0.013180347425597054, val loss: 0.6560314297676086
+Kfold: 1 ::: epoch: 800, loss: 0.01003979193046689, val loss: 0.6210656464099884
+Kfold: 1 ::: epoch: 1000, loss: 0.008659410157373973, val loss: 0.6061484217643738
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.03106104609157358, val loss: 0.5992768406867981
+Kfold: 2 ::: epoch: 400, loss: 0.023079238033720424, val loss: 0.5386049449443817
+Kfold: 2 ::: epoch: 600, loss: 0.014775318625782217, val loss: 0.5073152780532837
+Kfold: 2 ::: epoch: 800, loss: 0.009016992790358407, val loss: 0.48550112545490265
+Kfold: 2 ::: epoch: 1000, loss: 0.008139518089592457, val loss: 0.46212349832057953
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.02909450073327337, val loss: 0.7810973525047302
+Kfold: 3 ::: epoch: 400, loss: 0.020224445632525852, val loss: 0.7343279123306274
+Kfold: 3 ::: epoch: 600, loss: 0.009451661658074175, val loss: 0.7118240594863892
+Kfold: 3 ::: epoch: 800, loss: 0.011529196186789445, val loss: 0.6873260736465454
+Kfold: 3 ::: epoch: 1000, loss: 0.007687820055122886, val loss: 0.6800428330898285
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.043836756742426326, val loss: 0.7622500360012054
+Kfold: 4 ::: epoch: 400, loss: 0.025800274152840887, val loss: 0.7867583632469177
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.028888736319329058, val loss: 0.9411553740501404
+Kfold: 5 ::: epoch: 400, loss: 0.018834795536739484, val loss: 0.8887379467487335
+Kfold: 5 ::: epoch: 600, loss: 0.01413653139024973, val loss: 0.8336451649665833
+Kfold: 5 ::: epoch: 800, loss: 0.009958669011081969, val loss: 0.8314056694507599
+Kfold: 5 ::: epoch: 1000, loss: 0.009942704678646155, val loss: 0.795113205909729
+Nested 2 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03521782745208059, val loss: 0.6936185657978058
+Kfold: 1 ::: epoch: 400, loss: 0.021783217654696534, val loss: 0.5861011743545532
+Kfold: 1 ::: epoch: 600, loss: 0.014153095494423593, val loss: 0.5931335389614105
+Kfold: 1 ::: epoch: 800, loss: 0.009953940021140235, val loss: 0.5662562549114227
+Kfold: 1 ::: epoch: 1000, loss: 0.00802632827045662, val loss: 0.5574795603752136
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.03062923891203744, val loss: 0.6435966789722443
+Kfold: 2 ::: epoch: 400, loss: 0.0234757023198264, val loss: 0.6097881942987442
+Kfold: 2 ::: epoch: 600, loss: 0.013607106038502284, val loss: 0.5662984251976013
+Kfold: 2 ::: epoch: 800, loss: 0.009337229654192924, val loss: 0.5288971811532974
+Kfold: 2 ::: epoch: 1000, loss: 0.006714744493365288, val loss: 0.5055133104324341
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.036852457959737094, val loss: 0.7189890444278717
+Kfold: 3 ::: epoch: 400, loss: 0.01843346788414887, val loss: 0.6784568130970001
+Kfold: 3 ::: epoch: 600, loss: 0.009850458042430026, val loss: 0.6473587453365326
+Kfold: 3 ::: epoch: 800, loss: 0.010495101500834738, val loss: 0.6245268881320953
+Kfold: 3 ::: epoch: 1000, loss: 0.009244791631187712, val loss: 0.618186891078949
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.033165943143623214, val loss: 0.942099392414093
+Kfold: 4 ::: epoch: 400, loss: 0.026605149997132167, val loss: 0.8924638032913208
+Kfold: 4 ::: epoch: 600, loss: 0.011773566981511456, val loss: 0.8478195667266846
+Kfold: 4 ::: epoch: 800, loss: 0.008442207904798644, val loss: 0.8245791494846344
+Kfold: 4 ::: epoch: 1000, loss: 0.009512183123401232, val loss: 0.8129124343395233
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.03391452719058309, val loss: 0.837733656167984
+Kfold: 5 ::: epoch: 400, loss: 0.01807181750025068, val loss: 0.7927835285663605
+Kfold: 5 ::: epoch: 600, loss: 0.011513905067528998, val loss: 0.7778621912002563
+Kfold: 5 ::: epoch: 800, loss: 0.009931593933807952, val loss: 0.7986017167568207
+Kfold: 5 ::: epoch: 1000, loss: 0.008838969149759837, val loss: 0.7506786286830902
+Nested 3 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03445438668131828, val loss: 0.6805803775787354
+Kfold: 1 ::: epoch: 400, loss: 0.02144513332418033, val loss: 0.650358110666275
+Kfold: 1 ::: epoch: 600, loss: 0.013343292421528272, val loss: 0.684929370880127
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.03659301517265184, val loss: 0.8732202649116516
+Kfold: 2 ::: epoch: 400, loss: 0.020487806892820766, val loss: 0.7566457986831665
+Kfold: 2 ::: epoch: 600, loss: 0.014207698138696807, val loss: 0.7393018007278442
+Kfold: 2 ::: epoch: 800, loss: 0.012775656101959092, val loss: 0.7188078761100769
+Kfold: 2 ::: epoch: 1000, loss: 0.007767513660447938, val loss: 0.7103767693042755
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.03850296698510647, val loss: 0.6434065997600555
+Kfold: 3 ::: epoch: 400, loss: 0.016041009154702936, val loss: 0.5795453488826752
+Kfold: 3 ::: epoch: 600, loss: 0.014784038199910097, val loss: 0.5644335746765137
+Kfold: 3 ::: epoch: 800, loss: 0.009965227251606328, val loss: 0.5638521015644073
+Kfold: 3 ::: epoch: 1000, loss: 0.007472324983349868, val loss: 0.5491413027048111
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.033762614375778606, val loss: 0.832716166973114
+Kfold: 4 ::: epoch: 400, loss: 0.01840514875948429, val loss: 0.7779370248317719
+Kfold: 4 ::: epoch: 600, loss: 0.013220090019915785, val loss: 0.7655596137046814
+Kfold: 4 ::: epoch: 800, loss: 0.010633582981037242, val loss: 0.7524548470973969
+Kfold: 4 ::: epoch: 1000, loss: 0.0076626804657280445, val loss: 0.7224828898906708
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.025451011822691987, val loss: 0.8048016130924225
+Kfold: 5 ::: epoch: 400, loss: 0.018386744761041234, val loss: 0.7981829345226288
+Kfold: 5 ::: epoch: 600, loss: 0.011464551290763276, val loss: 0.7632120251655579
+Kfold: 5 ::: epoch: 800, loss: 0.008243001365501965, val loss: 0.7527158856391907
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03546683357230255, val loss: 0.6051606088876724
+Kfold: 1 ::: epoch: 400, loss: 0.022392896669251577, val loss: 0.5616486370563507
+Kfold: 1 ::: epoch: 600, loss: 0.016989521150078093, val loss: 0.5727922022342682
+Kfold: 1 ::: epoch: 800, loss: 0.011794014966913633, val loss: 0.5341101139783859
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.032709931156464984, val loss: 0.6914348602294922
+Kfold: 2 ::: epoch: 400, loss: 0.016974762082099915, val loss: 0.638977438211441
+Kfold: 2 ::: epoch: 600, loss: 0.011491806878309165, val loss: 0.636122077703476
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.03269183835280793, val loss: 0.610305905342102
+Kfold: 3 ::: epoch: 400, loss: 0.016748878439622267, val loss: 0.5534425675868988
+Kfold: 3 ::: epoch: 600, loss: 0.012355754284986429, val loss: 0.5380750298500061
+Kfold: 3 ::: epoch: 800, loss: 0.010569734565381492, val loss: 0.5261506140232086
+Kfold: 3 ::: epoch: 1000, loss: 0.007904177598123039, val loss: 0.5176992863416672
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.04276721631842, val loss: 0.9086869955062866
+Kfold: 4 ::: epoch: 400, loss: 0.02124201799077647, val loss: 0.8065436482429504
+Kfold: 4 ::: epoch: 600, loss: 0.013152536803058215, val loss: 0.782151848077774
+Kfold: 4 ::: epoch: 800, loss: 0.010875240766576358, val loss: 0.7687990367412567
+Kfold: 4 ::: epoch: 1000, loss: 0.007662926201841661, val loss: 0.7468330562114716
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.034774131274649074, val loss: 0.8155945837497711
+Kfold: 5 ::: epoch: 400, loss: 0.019943362767142907, val loss: 0.8064748346805573
+Kfold: 5 ::: epoch: 600, loss: 0.01695750587220703, val loss: 0.8049407005310059
+early stopping
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03585238488657134, val loss: 0.6085694879293442
+Kfold: 1 ::: epoch: 400, loss: 0.025953737752778188, val loss: 0.5928733944892883
+Kfold: 1 ::: epoch: 600, loss: 0.020250420219131877, val loss: 0.556240051984787
+Kfold: 1 ::: epoch: 800, loss: 0.009470007914517607, val loss: 0.5408103615045547
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.02680590296430247, val loss: 0.8227006196975708
+Kfold: 2 ::: epoch: 400, loss: 0.014896633036966835, val loss: 0.7675090134143829
+Kfold: 2 ::: epoch: 600, loss: 0.015790021712226526, val loss: 0.7305387556552887
+Kfold: 2 ::: epoch: 800, loss: 0.008967991120048932, val loss: 0.6978344321250916
+Kfold: 2 ::: epoch: 1000, loss: 0.007995567484093564, val loss: 0.6905604004859924
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.036979609834296365, val loss: 0.5728356242179871
+Kfold: 3 ::: epoch: 400, loss: 0.016571572050452232, val loss: 0.5323807150125504
+Kfold: 3 ::: epoch: 600, loss: 0.015865548247737542, val loss: 0.51161228120327
+Kfold: 3 ::: epoch: 800, loss: 0.00922469502048833, val loss: 0.5023026466369629
+Kfold: 3 ::: epoch: 1000, loss: 0.008175256329455547, val loss: 0.49746690690517426
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.03315943665802479, val loss: 0.6729449331760406
+Kfold: 4 ::: epoch: 400, loss: 0.015708829941494123, val loss: 0.648136705160141
+Kfold: 4 ::: epoch: 600, loss: 0.013228222195591246, val loss: 0.6431212425231934
+Kfold: 4 ::: epoch: 800, loss: 0.008260179444083146, val loss: 0.6273113489151001
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.0264582381184612, val loss: 0.7277331054210663
+Kfold: 5 ::: epoch: 400, loss: 0.015838197831596647, val loss: 0.6954182982444763
+Kfold: 5 ::: epoch: 600, loss: 0.010959322697349958, val loss: 0.6835470497608185
+Kfold: 5 ::: epoch: 800, loss: 0.01082748600414821, val loss: 0.6777336001396179
+Kfold: 5 ::: epoch: 1000, loss: 0.009416921929057156, val loss: 0.6694363355636597
+Nested 1 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.050797036715916226, val loss: 0.7441467344760895
+Kfold: 1 ::: epoch: 400, loss: 0.031960389975990565, val loss: 0.6736578345298767
+Kfold: 1 ::: epoch: 600, loss: 0.026104982144066265, val loss: 0.6662973314523697
+Kfold: 1 ::: epoch: 800, loss: 0.01687446143478155, val loss: 0.6429164409637451
+Kfold: 1 ::: epoch: 1000, loss: 0.014241753279098443, val loss: 0.6311678439378738
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.04360208979674748, val loss: 0.66574826836586
+Kfold: 2 ::: epoch: 400, loss: 0.025721276445048197, val loss: 0.6328718662261963
+Kfold: 2 ::: epoch: 600, loss: 0.019350904705268995, val loss: 0.5842754244804382
+Kfold: 2 ::: epoch: 800, loss: 0.015637808878506933, val loss: 0.5714932084083557
+Kfold: 2 ::: epoch: 1000, loss: 0.011134651090417589, val loss: 0.5138601064682007
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.05191412621310779, val loss: 0.8253744840621948
+Kfold: 3 ::: epoch: 400, loss: 0.03735885423208986, val loss: 0.7893935143947601
+Kfold: 3 ::: epoch: 600, loss: 0.01695845036634377, val loss: 0.7366025447845459
+Kfold: 3 ::: epoch: 800, loss: 0.015612038650682994, val loss: 0.7261078357696533
+Kfold: 3 ::: epoch: 1000, loss: 0.011520891583391599, val loss: 0.7106440663337708
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.049185264855623245, val loss: 0.7492276728153229
+Kfold: 4 ::: epoch: 400, loss: 0.04050948311175619, val loss: 0.7267609238624573
+Kfold: 4 ::: epoch: 600, loss: 0.021125720015593936, val loss: 0.7173830568790436
+Kfold: 4 ::: epoch: 800, loss: 0.024242869977440153, val loss: 0.6822643876075745
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.04286777919956616, val loss: 0.9714153110980988
+Kfold: 5 ::: epoch: 400, loss: 0.02262772060930729, val loss: 0.8712246716022491
+Kfold: 5 ::: epoch: 600, loss: 0.01642071535544736, val loss: 0.8121567070484161
+Kfold: 5 ::: epoch: 800, loss: 0.013662213592657022, val loss: 0.7844105660915375
+Kfold: 5 ::: epoch: 1000, loss: 0.010688926093280315, val loss: 0.7482615113258362
+Nested 2 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.05051441224558013, val loss: 0.7710366249084473
+Kfold: 1 ::: epoch: 400, loss: 0.030946291450943266, val loss: 0.6822731196880341
+Kfold: 1 ::: epoch: 600, loss: 0.024483597172158107, val loss: 0.6771388351917267
+Kfold: 1 ::: epoch: 800, loss: 0.013643759435841016, val loss: 0.6251418590545654
+Kfold: 1 ::: epoch: 1000, loss: 0.01182627132428544, val loss: 0.6304454505443573
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.044701719390494485, val loss: 0.7631381154060364
+Kfold: 2 ::: epoch: 400, loss: 0.030225544635738646, val loss: 0.6760855317115784
+Kfold: 2 ::: epoch: 600, loss: 0.016919761829610382, val loss: 0.6325371861457825
+Kfold: 2 ::: epoch: 800, loss: 0.014866208923714501, val loss: 0.5864140093326569
+Kfold: 2 ::: epoch: 1000, loss: 0.013209610379167966, val loss: 0.5724334716796875
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.04943746754101345, val loss: 0.7703022062778473
+Kfold: 3 ::: epoch: 400, loss: 0.03521143964358738, val loss: 0.7144944369792938
+Kfold: 3 ::: epoch: 600, loss: 0.01705916185996362, val loss: 0.669560968875885
+Kfold: 3 ::: epoch: 800, loss: 0.015906216576695442, val loss: 0.6378479301929474
+Kfold: 3 ::: epoch: 1000, loss: 0.012153734053884233, val loss: 0.6230881214141846
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.04939400511128562, val loss: 0.8511336445808411
+Kfold: 4 ::: epoch: 400, loss: 0.03332088142633438, val loss: 0.8087516725063324
+Kfold: 4 ::: epoch: 600, loss: 0.02398755614246641, val loss: 0.7893357872962952
+Kfold: 4 ::: epoch: 800, loss: 0.018059308773704937, val loss: 0.7563678026199341
+Kfold: 4 ::: epoch: 1000, loss: 0.015781367596771036, val loss: 0.7750513255596161
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.04914496732609613, val loss: 0.9103097319602966
+Kfold: 5 ::: epoch: 400, loss: 0.025710280186363628, val loss: 0.9295952320098877
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.06155060391340937, val loss: 0.8897932171821594
+Kfold: 1 ::: epoch: 400, loss: 0.03707007238907473, val loss: 0.8177423477172852
+Kfold: 1 ::: epoch: 600, loss: 0.02113109640777111, val loss: 0.7854365110397339
+Kfold: 1 ::: epoch: 800, loss: 0.017632643160011088, val loss: 0.7297005951404572
+Kfold: 1 ::: epoch: 1000, loss: 0.01742678907300745, val loss: 0.7290357947349548
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.0457519492400544, val loss: 0.9944620132446289
+Kfold: 2 ::: epoch: 400, loss: 0.02887240211878504, val loss: 0.8898784816265106
+Kfold: 2 ::: epoch: 600, loss: 0.017658069197620665, val loss: 0.8293161392211914
+Kfold: 2 ::: epoch: 800, loss: 0.015077508719904082, val loss: 0.8010463118553162
+Kfold: 2 ::: epoch: 1000, loss: 0.012606322233166014, val loss: 0.7852611243724823
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.04730996489524841, val loss: 0.8397345244884491
+Kfold: 3 ::: epoch: 400, loss: 0.03233694764120238, val loss: 0.7690156102180481
+Kfold: 3 ::: epoch: 600, loss: 0.018016950227320194, val loss: 0.7342402338981628
+Kfold: 3 ::: epoch: 800, loss: 0.02100253983267716, val loss: 0.7219711244106293
+Kfold: 3 ::: epoch: 1000, loss: 0.014467231796256133, val loss: 0.6829866766929626
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.047698221036366055, val loss: 0.9484011232852936
+Kfold: 4 ::: epoch: 400, loss: 0.03409532643854618, val loss: 0.9082932770252228
+Kfold: 4 ::: epoch: 600, loss: 0.023196520217295204, val loss: 0.895047515630722
+Kfold: 4 ::: epoch: 800, loss: 0.02116566976266248, val loss: 0.8667594194412231
+Kfold: 4 ::: epoch: 1000, loss: 0.017710933461785316, val loss: 0.8386676907539368
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.039591752524886815, val loss: 0.8501040637493134
+Kfold: 5 ::: epoch: 400, loss: 0.030818293137209758, val loss: 0.8248727917671204
+Kfold: 5 ::: epoch: 600, loss: 0.022371229050414904, val loss: 0.7982468008995056
+Kfold: 5 ::: epoch: 800, loss: 0.017107532093567506, val loss: 0.7923433184623718
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.06241256105048316, val loss: 0.7750672698020935
+Kfold: 1 ::: epoch: 400, loss: 0.0355251170694828, val loss: 0.6901611983776093
+Kfold: 1 ::: epoch: 600, loss: 0.018767488388610736, val loss: 0.662059873342514
+Kfold: 1 ::: epoch: 800, loss: 0.01566980912217072, val loss: 0.6042041331529617
+Kfold: 1 ::: epoch: 1000, loss: 0.013067478447088174, val loss: 0.5904333889484406
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.04885065821664674, val loss: 0.9537781178951263
+Kfold: 2 ::: epoch: 400, loss: 0.031104377870048796, val loss: 0.8728048503398895
+Kfold: 2 ::: epoch: 600, loss: 0.017028317520661012, val loss: 0.837104082107544
+Kfold: 2 ::: epoch: 800, loss: 0.018003609430577074, val loss: 0.7810835838317871
+Kfold: 2 ::: epoch: 1000, loss: 0.011483585595020227, val loss: 0.7719099521636963
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.048005378139870505, val loss: 0.8505941033363342
+Kfold: 3 ::: epoch: 400, loss: 0.027530723650540625, val loss: 0.73896923661232
+Kfold: 3 ::: epoch: 600, loss: 0.018479608664555208, val loss: 0.7034062445163727
+Kfold: 3 ::: epoch: 800, loss: 0.019547139826629843, val loss: 0.6694185137748718
+Kfold: 3 ::: epoch: 1000, loss: 0.012855856945472104, val loss: 0.6372527480125427
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.04251334736389773, val loss: 0.8117870092391968
+Kfold: 4 ::: epoch: 400, loss: 0.02916750019150121, val loss: 0.7611287236213684
+Kfold: 4 ::: epoch: 600, loss: 0.02269472274929285, val loss: 0.7448633909225464
+Kfold: 4 ::: epoch: 800, loss: 0.016863259486854076, val loss: 0.7426473498344421
+Kfold: 4 ::: epoch: 1000, loss: 0.01615584548562765, val loss: 0.7278986871242523
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.05123978587133544, val loss: 1.1942214369773865
+Kfold: 5 ::: epoch: 400, loss: 0.0329635569027492, val loss: 1.0739770531654358
+Kfold: 5 ::: epoch: 600, loss: 0.02321174873837403, val loss: 1.026636004447937
+Kfold: 5 ::: epoch: 800, loss: 0.01541876486901726, val loss: 1.0126758515834808
+Kfold: 5 ::: epoch: 1000, loss: 0.013737520069948264, val loss: 0.9609054028987885
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.06430478287594658, val loss: 0.7557480931282043
+Kfold: 1 ::: epoch: 400, loss: 0.031589572450944355, val loss: 0.6771422624588013
+Kfold: 1 ::: epoch: 600, loss: 0.018823652927364622, val loss: 0.6373548805713654
+Kfold: 1 ::: epoch: 800, loss: 0.017602402982967242, val loss: 0.6156785488128662
+Kfold: 1 ::: epoch: 1000, loss: 0.01614118380738156, val loss: 0.6063833832740784
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.046564427337476184, val loss: 0.8682892620563507
+Kfold: 2 ::: epoch: 400, loss: 0.0274751071951219, val loss: 0.8108362555503845
+Kfold: 2 ::: epoch: 600, loss: 0.016540976041661843, val loss: 0.768401563167572
+Kfold: 2 ::: epoch: 800, loss: 0.012200158621583666, val loss: 0.7412776052951813
+Kfold: 2 ::: epoch: 1000, loss: 0.013313719204493932, val loss: 0.7371366620063782
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.04972634996686663, val loss: 0.681071549654007
+Kfold: 3 ::: epoch: 400, loss: 0.026947906240820885, val loss: 0.6254890859127045
+Kfold: 3 ::: epoch: 600, loss: 0.017293925463621105, val loss: 0.585412323474884
+Kfold: 3 ::: epoch: 800, loss: 0.017251861015600816, val loss: 0.5748374164104462
+Kfold: 3 ::: epoch: 1000, loss: 0.01421891525387764, val loss: 0.5591084510087967
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.04616912826895714, val loss: 0.6489433944225311
+Kfold: 4 ::: epoch: 400, loss: 0.04217553298388209, val loss: 0.6389660239219666
+Kfold: 4 ::: epoch: 600, loss: 0.02556289599410125, val loss: 0.6163423359394073
+Kfold: 4 ::: epoch: 800, loss: 0.015529317249144827, val loss: 0.5888824760913849
+Kfold: 4 ::: epoch: 1000, loss: 0.012895150110125542, val loss: 0.5828376710414886
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.05154277490718024, val loss: 0.7899203896522522
+Kfold: 5 ::: epoch: 400, loss: 0.026897461818797246, val loss: 0.7618265151977539
+Kfold: 5 ::: epoch: 600, loss: 0.018830204515584877, val loss: 0.6916349828243256
+Kfold: 5 ::: epoch: 800, loss: 0.014849824431751455, val loss: 0.6831147074699402
+Kfold: 5 ::: epoch: 1000, loss: 0.01327361206391028, val loss: 0.6783545911312103
+Nested 1 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.027519906799380597, val loss: 0.522414080798626
+Kfold: 1 ::: epoch: 400, loss: 0.015933767068558015, val loss: 0.4996080584824085
+Kfold: 1 ::: epoch: 600, loss: 0.007568158513794725, val loss: 0.5019507370889187
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.023249544561482392, val loss: 0.6990800425410271
+Kfold: 2 ::: epoch: 400, loss: 0.013056788163689466, val loss: 0.6689934432506561
+Kfold: 2 ::: epoch: 600, loss: 0.008677664678543806, val loss: 0.6510239169001579
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.026045909724556483, val loss: 0.5799869075417519
+Kfold: 3 ::: epoch: 400, loss: 0.01175999827682972, val loss: 0.5592582933604717
+Kfold: 3 ::: epoch: 600, loss: 0.007797621906949923, val loss: 0.4968067817389965
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.024437814521101806, val loss: 0.6864412277936935
+Kfold: 4 ::: epoch: 400, loss: 0.016175835536649592, val loss: 0.6158928871154785
+Kfold: 4 ::: epoch: 600, loss: 0.008326593732747894, val loss: 0.6316402107477188
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.028001770807000306, val loss: 0.601778045296669
+Kfold: 5 ::: epoch: 400, loss: 0.011813458485098986, val loss: 0.5473407581448555
+Kfold: 5 ::: epoch: 600, loss: 0.008103369233699946, val loss: 0.5480947215110064
+Nested 2 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.02884453979249184, val loss: 0.61203483492136
+Kfold: 1 ::: epoch: 400, loss: 0.016235021874308586, val loss: 0.6533537283539772
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.02966733377140302, val loss: 0.6406605839729309
+Kfold: 2 ::: epoch: 400, loss: 0.0141350172030238, val loss: 0.6322970688343048
+Kfold: 2 ::: epoch: 600, loss: 0.009177458185989123, val loss: 0.6271984577178955
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.026324112254839677, val loss: 0.7086777091026306
+Kfold: 3 ::: epoch: 400, loss: 0.015733327358387984, val loss: 0.5815841183066368
+Kfold: 3 ::: epoch: 600, loss: 0.010856635832729248, val loss: 0.5058014579117298
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.023545276946746387, val loss: 0.984574630856514
+Kfold: 4 ::: epoch: 400, loss: 0.01575481626563347, val loss: 0.9783032983541489
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.026056237017305996, val loss: 0.6535501778125763
+Kfold: 5 ::: epoch: 400, loss: 0.01476913858921482, val loss: 0.6407702565193176
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.02735022584406229, val loss: 0.5770473182201385
+Kfold: 1 ::: epoch: 400, loss: 0.01207794202491641, val loss: 0.6565544009208679
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.027493809134914324, val loss: 0.5510588241741061
+Kfold: 2 ::: epoch: 400, loss: 0.014253448086002698, val loss: 0.5440497919917107
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.01775161327364353, val loss: 0.6178324371576309
+Kfold: 3 ::: epoch: 400, loss: 0.01702763706159133, val loss: 0.659896656870842
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.02130683955664818, val loss: 0.8667805194854736
+Kfold: 4 ::: epoch: 400, loss: 0.011211308614852337, val loss: 0.8934484720230103
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.024195479945494577, val loss: 0.8611022680997849
+Kfold: 5 ::: epoch: 400, loss: 0.014261960266874386, val loss: 0.8417663276195526
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.02723692164111596, val loss: 0.6296608000993729
+Kfold: 1 ::: epoch: 400, loss: 0.012447682352593312, val loss: 0.672335296869278
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.02553222206636117, val loss: 0.6362986378371716
+Kfold: 2 ::: epoch: 400, loss: 0.009739217061835986, val loss: 0.6449474990367889
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.025862544846649353, val loss: 0.5475159212946892
+Kfold: 3 ::: epoch: 400, loss: 0.01343142923612434, val loss: 0.5472953394055367
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.021787458314345434, val loss: 0.9382099658250809
+Kfold: 4 ::: epoch: 400, loss: 0.010000246541144757, val loss: 0.9006527066230774
+Kfold: 4 ::: epoch: 600, loss: 0.00832068551188478, val loss: 0.8535597920417786
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.020868332984928902, val loss: 0.596708819270134
+Kfold: 5 ::: epoch: 400, loss: 0.012354379698920708, val loss: 0.542185727506876
+Kfold: 5 ::: epoch: 600, loss: 0.007661430129351525, val loss: 0.5489345975220203
+early stopping
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.027065529559667293, val loss: 0.6937595307826996
+Kfold: 1 ::: epoch: 400, loss: 0.01177251163440255, val loss: 0.7563598453998566
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.022941769244006045, val loss: 0.6471418961882591
+Kfold: 2 ::: epoch: 400, loss: 0.012781121374036256, val loss: 0.6948348581790924
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.01755377442504351, val loss: 0.6425349116325378
+Kfold: 3 ::: epoch: 400, loss: 0.013242421456827568, val loss: 0.6261708736419678
+Kfold: 3 ::: epoch: 600, loss: 0.010838313744618343, val loss: 0.6138219982385635
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.028967453310122855, val loss: 0.6899626329541206
+Kfold: 4 ::: epoch: 400, loss: 0.01564198137762455, val loss: 0.6071933060884476
+Kfold: 4 ::: epoch: 600, loss: 0.00789922744465562, val loss: 0.6142944544553757
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.031187503455350034, val loss: 0.6994749456644058
+Kfold: 5 ::: epoch: 400, loss: 0.014036099139887553, val loss: 0.7732627689838409
+early stopping
+Nested 1 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.029113806712512787, val loss: 0.5445084236562252
+Kfold: 1 ::: epoch: 400, loss: 0.01191941501859289, val loss: 0.5299138929694891
+Kfold: 1 ::: epoch: 600, loss: 0.009850353145828614, val loss: 0.5305756144225597
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.01972996859023204, val loss: 0.5288233458995819
+Kfold: 2 ::: epoch: 400, loss: 0.008693181408139376, val loss: 0.5370017513632774
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.025680732984955493, val loss: 0.4890340566635132
+Kfold: 3 ::: epoch: 400, loss: 0.010166968792103805, val loss: 0.46698517352342606
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.022535802939763434, val loss: 0.8964578807353973
+Kfold: 4 ::: epoch: 400, loss: 0.011313482653349638, val loss: 0.7956153154373169
+Kfold: 4 ::: epoch: 600, loss: 0.00817583418952731, val loss: 0.7571495771408081
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.02232810167165903, val loss: 0.629508450627327
+Kfold: 5 ::: epoch: 400, loss: 0.01524624378921894, val loss: 0.5985120013356209
+early stopping
+Nested 2 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.0292924247108973, val loss: 0.695176437497139
+Kfold: 1 ::: epoch: 400, loss: 0.011390111874789, val loss: 0.7186520993709564
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.022447405239710443, val loss: 0.7315197587013245
+Kfold: 2 ::: epoch: 400, loss: 0.012782446359499143, val loss: 0.8092073947191238
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.01899410017694418, val loss: 0.5125027932226658
+Kfold: 3 ::: epoch: 400, loss: 0.00953248504979106, val loss: 0.5427762717008591
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.025962297303172257, val loss: 0.8813147842884064
+Kfold: 4 ::: epoch: 400, loss: 0.014318763815726224, val loss: 0.9273747950792313
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.018512017380159635, val loss: 0.6131612658500671
+Kfold: 5 ::: epoch: 400, loss: 0.012834664505834762, val loss: 0.6659276932477951
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.023615596815943718, val loss: 0.7685992121696472
+Kfold: 1 ::: epoch: 400, loss: 0.012377499907205883, val loss: 0.7771700620651245
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.02274483943787905, val loss: 0.7029028944671154
+Kfold: 2 ::: epoch: 400, loss: 0.013160889681715231, val loss: 0.698680441826582
+Kfold: 2 ::: epoch: 600, loss: 0.009200065181805538, val loss: 0.69151053391397
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.022782787752266113, val loss: 0.6545319482684135
+Kfold: 3 ::: epoch: 400, loss: 0.013099454522419434, val loss: 0.5638771429657936
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.017235861016580693, val loss: 1.0399998426437378
+Kfold: 4 ::: epoch: 400, loss: 0.011257773730903864, val loss: 1.0275954753160477
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.023577676226313297, val loss: 0.9658595770597458
+Kfold: 5 ::: epoch: 400, loss: 0.011648819746019749, val loss: 0.9409055411815643
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.02704484388232231, val loss: 0.6968324035406113
+Kfold: 1 ::: epoch: 400, loss: 0.012833333502595242, val loss: 0.6976269409060478
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.02258778291826065, val loss: 0.6735984571278095
+Kfold: 2 ::: epoch: 400, loss: 0.014422188118959848, val loss: 0.639820896089077
+Kfold: 2 ::: epoch: 600, loss: 0.009676951055343334, val loss: 0.655689150094986
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.021007669229920093, val loss: 0.6248080879449844
+Kfold: 3 ::: epoch: 400, loss: 0.012090716546831222, val loss: 0.6415908932685852
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.020918670755166274, val loss: 1.0455690547823906
+Kfold: 4 ::: epoch: 400, loss: 0.014530189227885924, val loss: 1.0856065079569817
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.03086045584999598, val loss: 0.8565956056118011
+Kfold: 5 ::: epoch: 400, loss: 0.012649442785634445, val loss: 0.865006685256958
+Kfold: 5 ::: epoch: 600, loss: 0.007714427649401701, val loss: 0.8153589814901352
+early stopping
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.027765676092643004, val loss: 0.7759862840175629
+Kfold: 1 ::: epoch: 400, loss: 0.011666124901519371, val loss: 0.8061741441488266
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.024771337039195575, val loss: 0.6303034648299217
+Kfold: 2 ::: epoch: 400, loss: 0.01312868709031206, val loss: 0.6600641161203384
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.028515434752290066, val loss: 0.5757734030485153
+Kfold: 3 ::: epoch: 400, loss: 0.015129123671123615, val loss: 0.5923670083284378
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.019837964970905047, val loss: 0.4460305869579315
+Kfold: 4 ::: epoch: 400, loss: 0.010795965934028992, val loss: 0.49392958730459213
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.017595097136039, val loss: 0.7592031061649323
+Kfold: 5 ::: epoch: 400, loss: 0.015707318277026597, val loss: 0.8269511312246323
+early stopping
+2022年01月11日 02:58:30
+start destrieux
+Nested 1 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03511773236095905, val loss: 0.7067952454090118
+Kfold: 1 ::: epoch: 400, loss: 0.017506552327956473, val loss: 0.6505672633647919
+Kfold: 1 ::: epoch: 600, loss: 0.017713969573378563, val loss: 0.6227721571922302
+Kfold: 1 ::: epoch: 800, loss: 0.012467910668679647, val loss: 0.6457019746303558
+Kfold: 1 ::: epoch: 1000, loss: 0.007646344868200166, val loss: 0.6185554265975952
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.03725013110254492, val loss: 0.7635782063007355
+Kfold: 2 ::: epoch: 400, loss: 0.02160427812486887, val loss: 0.6496445536613464
+Kfold: 2 ::: epoch: 600, loss: 0.015493959454553468, val loss: 0.617362454533577
+Kfold: 2 ::: epoch: 800, loss: 0.01072583839829479, val loss: 0.5998995006084442
+Kfold: 2 ::: epoch: 1000, loss: 0.011098196929586785, val loss: 0.5923888385295868
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.03172101133636066, val loss: 0.8522728979587555
+Kfold: 3 ::: epoch: 400, loss: 0.018989895470440388, val loss: 0.7441371381282806
+Kfold: 3 ::: epoch: 600, loss: 0.017378329964620725, val loss: 0.709771603345871
+Kfold: 3 ::: epoch: 800, loss: 0.008985542692244053, val loss: 0.6877279579639435
+Kfold: 3 ::: epoch: 1000, loss: 0.009507650309907538, val loss: 0.6732805371284485
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.032407106299485476, val loss: 0.8643140196800232
+Kfold: 4 ::: epoch: 400, loss: 0.016204695416880504, val loss: 0.7427267730236053
+Kfold: 4 ::: epoch: 600, loss: 0.012604031113109418, val loss: 0.7099123299121857
+Kfold: 4 ::: epoch: 800, loss: 0.008792671574545758, val loss: 0.6926850974559784
+Kfold: 4 ::: epoch: 1000, loss: 0.007491240610501596, val loss: 0.6788338422775269
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.038594714498945644, val loss: 0.9932526648044586
+Kfold: 5 ::: epoch: 400, loss: 0.015826225147715638, val loss: 0.8606983125209808
+Kfold: 5 ::: epoch: 600, loss: 0.012342180125415325, val loss: 0.7949533462524414
+Kfold: 5 ::: epoch: 800, loss: 0.008492408453353814, val loss: 0.7833436727523804
+Kfold: 5 ::: epoch: 1000, loss: 0.007683722901024989, val loss: 0.7418020069599152
+Nested 2 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.03568313377244132, val loss: 0.6545232236385345
+Kfold: 1 ::: epoch: 400, loss: 0.01722268826727356, val loss: 0.5916606485843658
+Kfold: 1 ::: epoch: 600, loss: 0.016836825891264846, val loss: 0.5668817907571793
+Kfold: 1 ::: epoch: 800, loss: 0.014350947790912219, val loss: 0.5780875086784363
+Kfold: 1 ::: epoch: 1000, loss: 0.008022999856621027, val loss: 0.5502040684223175
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.03874669862645013, val loss: 0.8801284730434418
+Kfold: 2 ::: epoch: 400, loss: 0.020982390535729274, val loss: 0.7458458244800568
+Kfold: 2 ::: epoch: 600, loss: 0.013630809395440988, val loss: 0.7026844024658203
+Kfold: 2 ::: epoch: 800, loss: 0.011625477245875768, val loss: 0.6773796379566193
+Kfold: 2 ::: epoch: 1000, loss: 0.008178628249359983, val loss: 0.6611428260803223
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.04995082212345941, val loss: 0.9014875292778015
+Kfold: 3 ::: epoch: 400, loss: 0.021289922829185213, val loss: 0.8217206299304962
+Kfold: 3 ::: epoch: 600, loss: 0.012386492586561612, val loss: 0.7990624606609344
+Kfold: 3 ::: epoch: 800, loss: 0.012465254270604678, val loss: 0.7662152349948883
+Kfold: 3 ::: epoch: 1000, loss: 0.010381370250667845, val loss: 0.7419785559177399
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.03167168104222843, val loss: 0.9003397226333618
+Kfold: 4 ::: epoch: 400, loss: 0.013230613831962858, val loss: 0.7385249435901642
+Kfold: 4 ::: epoch: 600, loss: 0.013856720312365465, val loss: 0.6697621643543243
+Kfold: 4 ::: epoch: 800, loss: 0.0073570982619587865, val loss: 0.6369157433509827
+Kfold: 4 ::: epoch: 1000, loss: 0.00748115624966366, val loss: 0.620835930109024
+Let's use 4 GPUs!
+                                                                           Kfold: 5 ::: epoch: 200, loss: 0.03132228380335229, val loss: 1.0323393940925598
+Kfold: 5 ::: epoch: 400, loss: 0.016486767679452896, val loss: 0.932097464799881
+Kfold: 5 ::: epoch: 600, loss: 0.014089178293943405, val loss: 0.900904506444931
+Kfold: 5 ::: epoch: 800, loss: 0.007477283777136888, val loss: 0.8801458477973938
+Kfold: 5 ::: epoch: 1000, loss: 0.007281065086967179, val loss: 0.8796590268611908
+Nested 3 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 1 ::: epoch: 200, loss: 0.03200629859098366, val loss: 0.7493318021297455
+Kfold: 1 ::: epoch: 400, loss: 0.013724065917943205, val loss: 0.6753894686698914
+Kfold: 1 ::: epoch: 600, loss: 0.014236705244651862, val loss: 0.6405114233493805
+Kfold: 1 ::: epoch: 800, loss: 0.011424352814044272, val loss: 0.6106742173433304
+Kfold: 1 ::: epoch: 1000, loss: 0.00886420187141214, val loss: 0.5986682325601578
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.034573301406843324, val loss: 0.8696900606155396
+Kfold: 2 ::: epoch: 400, loss: 0.01986674658421959, val loss: 0.8095739781856537
+Kfold: 2 ::: epoch: 600, loss: 0.012935254273803107, val loss: 0.7898776531219482
+Kfold: 2 ::: epoch: 800, loss: 0.01145825388708285, val loss: 0.7866681218147278
+Kfold: 2 ::: epoch: 1000, loss: 0.008357725505317961, val loss: 0.7651133239269257
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 3 ::: epoch: 200, loss: 0.026338752625244006, val loss: 1.0023989081382751
+Kfold: 3 ::: epoch: 400, loss: 0.013447438499757223, val loss: 0.8941046595573425
+Kfold: 3 ::: epoch: 600, loss: 0.013473589372422014, val loss: 0.8357202708721161
+Kfold: 3 ::: epoch: 800, loss: 0.011838001066020556, val loss: 0.8302304446697235
+Kfold: 3 ::: epoch: 1000, loss: 0.007519395755870002, val loss: 0.8102083206176758
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 4 ::: epoch: 200, loss: 0.027315008587070873, val loss: 1.0401816368103027
+Kfold: 4 ::: epoch: 400, loss: 0.01690649933048657, val loss: 0.9706383645534515
+Kfold: 4 ::: epoch: 600, loss: 0.010574094751583678, val loss: 0.9478306174278259
+Kfold: 4 ::: epoch: 800, loss: 0.009537313599139452, val loss: 0.9456615746021271
+Kfold: 4 ::: epoch: 1000, loss: 0.00866722668121968, val loss: 0.9352977871894836
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                             Kfold: 5 ::: epoch: 200, loss: 0.028651263564825058, val loss: 0.9587463438510895
+Kfold: 5 ::: epoch: 400, loss: 0.018468651920557022, val loss: 0.9733552932739258
+Kfold: 5 ::: epoch: 600, loss: 0.012747450066464288, val loss: 0.9380349218845367
+early stopping
+Nested 2 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 1 ::: epoch: 200, loss: 0.031377763620444706, val loss: 0.912274956703186
+Kfold: 1 ::: epoch: 400, loss: 0.018273269358490194, val loss: 0.8507713973522186
+Kfold: 1 ::: epoch: 600, loss: 0.009805213660001755, val loss: 0.8505750298500061
+Kfold: 1 ::: epoch: 800, loss: 0.010331729227410895, val loss: 0.8398319184780121
+Kfold: 1 ::: epoch: 1000, loss: 0.0076542045654995105, val loss: 0.824601799249649
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 2 ::: epoch: 200, loss: 0.034292944041746, val loss: 0.9583987593650818
+Kfold: 2 ::: epoch: 400, loss: 0.018530653124409064, val loss: 0.9096257984638214
+Kfold: 2 ::: epoch: 600, loss: 0.010555508945669447, val loss: 0.8823937475681305
+Kfold: 2 ::: epoch: 800, loss: 0.009203946550509759, val loss: 0.8919059932231903
+Kfold: 2 ::: epoch: 1000, loss: 0.008128342883927482, val loss: 0.8854338228702545
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 3 ::: epoch: 200, loss: 0.030040223949721882, val loss: 0.9273470938205719
+Kfold: 3 ::: epoch: 400, loss: 0.01975046829985721, val loss: 0.84293994307518
+Kfold: 3 ::: epoch: 600, loss: 0.013553621912641185, val loss: 0.8164220154285431
+Kfold: 3 ::: epoch: 800, loss: 0.009425818520997251, val loss: 0.830885112285614
+Kfold: 3 ::: epoch: 1000, loss: 0.0066651383281818456, val loss: 0.8178374767303467
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                        Kfold: 4 ::: epoch: 200, loss: 0.028614085433738574, val loss: 1.2055318355560303
+Kfold: 4 ::: epoch: 400, loss: 0.015557060550366129, val loss: 1.125921905040741
+Kfold: 4 ::: epoch: 600, loss: 0.01065048309309142, val loss: 1.1071569919586182
+Kfold: 4 ::: epoch: 800, loss: 0.008768766918884856, val loss: 1.059548556804657
+Kfold: 4 ::: epoch: 1000, loss: 0.009504465120179313, val loss: 1.0616446733474731
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 5 ::: epoch: 200, loss: 0.02683947528047221, val loss: 0.9117918312549591
+Kfold: 5 ::: epoch: 400, loss: 0.01947290250765426, val loss: 0.8186299204826355
+Kfold: 5 ::: epoch: 600, loss: 0.0114519945345819, val loss: 0.8194269835948944
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        Kfold: 1 ::: epoch: 200, loss: 0.02982191209282194, val loss: 0.8767767548561096
+Kfold: 1 ::: epoch: 400, loss: 0.02073063754609653, val loss: 0.8433669805526733
+Kfold: 1 ::: epoch: 600, loss: 0.012449848731713635, val loss: 0.8292006850242615
+Kfold: 1 ::: epoch: 800, loss: 0.008901583829096385, val loss: 0.8135726153850555
+Kfold: 1 ::: epoch: 1000, loss: 0.007173784210213593, val loss: 0.8075929582118988
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 2 ::: epoch: 200, loss: 0.03343778955084937, val loss: 0.94438236951828
+Kfold: 2 ::: epoch: 400, loss: 0.01752925930278642, val loss: 0.920033872127533
+Kfold: 2 ::: epoch: 600, loss: 0.012104651025895561, val loss: 0.9054751396179199
+Kfold: 2 ::: epoch: 800, loss: 0.009236419373857123, val loss: 0.9003625810146332
+Kfold: 2 ::: epoch: 1000, loss: 0.00793550502774971, val loss: 0.8969692885875702
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                     Kfold: 3 ::: epoch: 200, loss: 0.033491470984050205, val loss: 0.9686194062232971
+Kfold: 3 ::: epoch: 400, loss: 0.018727042712271214, val loss: 0.8457052707672119
+Kfold: 3 ::: epoch: 600, loss: 0.013543640795562948, val loss: 0.796097069978714
+Kfold: 3 ::: epoch: 800, loss: 0.00931337262902941, val loss: 0.7972629964351654
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 4 ::: epoch: 200, loss: 0.030580586354647363, val loss: 1.0149909555912018
+Kfold: 4 ::: epoch: 400, loss: 0.01465686084702611, val loss: 0.9165778756141663
+Kfold: 4 ::: epoch: 600, loss: 0.010954208539000579, val loss: 0.8569763004779816
+Kfold: 4 ::: epoch: 800, loss: 0.009908819504614388, val loss: 0.8511227369308472
+Kfold: 4 ::: epoch: 1000, loss: 0.006967201629387481, val loss: 0.8383082151412964
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 5 ::: epoch: 200, loss: 0.030346317748938288, val loss: 1.0731750428676605
+Kfold: 5 ::: epoch: 400, loss: 0.019569417727845057, val loss: 1.0148715376853943
+Kfold: 5 ::: epoch: 600, loss: 0.011425987152116639, val loss: 0.9910887181758881
+Kfold: 5 ::: epoch: 800, loss: 0.007321702449449471, val loss: 0.9809905588626862
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 1 ::: epoch: 200, loss: 0.027161894898329462, val loss: 0.8577355146408081
+Kfold: 1 ::: epoch: 400, loss: 0.021959060936101844, val loss: 0.8222518563270569
+Kfold: 1 ::: epoch: 600, loss: 0.012847392154591424, val loss: 0.7701443433761597
+Kfold: 1 ::: epoch: 800, loss: 0.009405224717089109, val loss: 0.7494184374809265
+Kfold: 1 ::: epoch: 1000, loss: 0.00806419484849487, val loss: 0.7354386150836945
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                      Kfold: 2 ::: epoch: 200, loss: 0.033894459051745277, val loss: 1.006587266921997
+Kfold: 2 ::: epoch: 400, loss: 0.015881503399993693, val loss: 0.978565126657486
+Kfold: 2 ::: epoch: 600, loss: 0.011017365514167718, val loss: 0.9354295432567596
+Kfold: 2 ::: epoch: 800, loss: 0.008458260247217757, val loss: 0.9374510049819946
+Kfold: 2 ::: epoch: 1000, loss: 0.007251777885747808, val loss: 0.9135263562202454
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                        Kfold: 3 ::: epoch: 200, loss: 0.03476910426148346, val loss: 0.9227725565433502
+Kfold: 3 ::: epoch: 400, loss: 0.0196798603449549, val loss: 0.8610559701919556
+Kfold: 3 ::: epoch: 600, loss: 0.01361793712047594, val loss: 0.8317731618881226
+Kfold: 3 ::: epoch: 800, loss: 0.009706282855144568, val loss: 0.8234144747257233
+Kfold: 3 ::: epoch: 1000, loss: 0.008356806955167226, val loss: 0.8294605016708374
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 4 ::: epoch: 200, loss: 0.02530390183840479, val loss: 1.0351577401161194
+Kfold: 4 ::: epoch: 400, loss: 0.01648560568823346, val loss: 0.9876037240028381
+Kfold: 4 ::: epoch: 600, loss: 0.010317468417010136, val loss: 0.9438989758491516
+Kfold: 4 ::: epoch: 800, loss: 0.00949598419746118, val loss: 0.9423361718654633
+Kfold: 4 ::: epoch: 1000, loss: 0.006438528586711202, val loss: 0.9215699136257172
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 5 ::: epoch: 200, loss: 0.036245599921260564, val loss: 1.0034789144992828
+Kfold: 5 ::: epoch: 400, loss: 0.01947237165378673, val loss: 0.9463449716567993
+Kfold: 5 ::: epoch: 600, loss: 0.013823038366224085, val loss: 0.9252813160419464
+Kfold: 5 ::: epoch: 800, loss: 0.008459674194455147, val loss: 0.9340307712554932
+Kfold: 5 ::: epoch: 1000, loss: 0.009787430720669883, val loss: 0.928388774394989
+Nested 5 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 1 ::: epoch: 200, loss: 0.03748516339276518, val loss: 0.924422413110733
+Kfold: 1 ::: epoch: 400, loss: 0.015790227002331188, val loss: 0.8673323094844818
+Kfold: 1 ::: epoch: 600, loss: 0.013409151030438287, val loss: 0.8372085392475128
+Kfold: 1 ::: epoch: 800, loss: 0.007398963440209627, val loss: 0.8119172155857086
+Kfold: 1 ::: epoch: 1000, loss: 0.007342380937188864, val loss: 0.8016996085643768
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 2 ::: epoch: 200, loss: 0.037289285234042575, val loss: 1.0175341963768005
+Kfold: 2 ::: epoch: 400, loss: 0.01654842615659748, val loss: 0.9596776962280273
+Kfold: 2 ::: epoch: 600, loss: 0.00985772501943367, val loss: 0.9247384667396545
+Kfold: 2 ::: epoch: 800, loss: 0.009802627975919418, val loss: 0.9091964662075043
+Kfold: 2 ::: epoch: 1000, loss: 0.00671796959691814, val loss: 0.8930804431438446
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 3 ::: epoch: 200, loss: 0.0321453974715301, val loss: 0.886590451002121
+Kfold: 3 ::: epoch: 400, loss: 0.0199607251478093, val loss: 0.8015940189361572
+Kfold: 3 ::: epoch: 600, loss: 0.011332883166947536, val loss: 0.7533358037471771
+Kfold: 3 ::: epoch: 800, loss: 0.009170349421245711, val loss: 0.7295822501182556
+Kfold: 3 ::: epoch: 1000, loss: 0.007648473771821175, val loss: 0.7344420850276947
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 4 ::: epoch: 200, loss: 0.02693078400833266, val loss: 0.8345701098442078
+Kfold: 4 ::: epoch: 400, loss: 0.017204653338662217, val loss: 0.7729837894439697
+Kfold: 4 ::: epoch: 600, loss: 0.00888647957305823, val loss: 0.7580524384975433
+Kfold: 4 ::: epoch: 800, loss: 0.009814279785911952, val loss: 0.7479360997676849
+Kfold: 4 ::: epoch: 1000, loss: 0.006508533909384694, val loss: 0.7319489121437073
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                       Kfold: 5 ::: epoch: 200, loss: 0.03361177497676441, val loss: 0.9007921814918518
+Kfold: 5 ::: epoch: 400, loss: 0.019752219319343567, val loss: 0.8154284358024597
+Kfold: 5 ::: epoch: 600, loss: 0.014946154318749905, val loss: 0.801297128200531
+Kfold: 5 ::: epoch: 800, loss: 0.007578870481146234, val loss: 0.7586230337619781
+Kfold: 5 ::: epoch: 1000, loss: 0.008318283129483461, val loss: 0.7480522990226746
+Nested 1 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 1 ::: epoch: 200, loss: 0.04970555113894599, val loss: 1.0348536968231201
+Kfold: 1 ::: epoch: 400, loss: 0.02720453097884144, val loss: 0.9586885869503021
+Kfold: 1 ::: epoch: 600, loss: 0.01905078999698162, val loss: 0.9307457804679871
+Kfold: 1 ::: epoch: 800, loss: 0.013881513848900795, val loss: 0.9178928136825562
+Kfold: 1 ::: epoch: 1000, loss: 0.012360586119549615, val loss: 0.9032379984855652
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.05132997302072389, val loss: 0.7986063957214355
+Kfold: 1 ::: epoch: 400, loss: 0.03550880854683263, val loss: 0.7485000789165497
+Kfold: 1 ::: epoch: 600, loss: 0.023458873853087425, val loss: 0.7300447225570679
+Kfold: 1 ::: epoch: 800, loss: 0.014269627896802766, val loss: 0.6946619749069214
+Kfold: 1 ::: epoch: 1000, loss: 0.014518948937101024, val loss: 0.6715109646320343
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                             Kfold: 2 ::: epoch: 200, loss: 0.04607556973184858, val loss: 0.9782167673110962
+Kfold: 2 ::: epoch: 400, loss: 0.029194248840212822, val loss: 0.8666418194770813
+Kfold: 2 ::: epoch: 600, loss: 0.02385167378400053, val loss: 0.8224902451038361
+Kfold: 2 ::: epoch: 800, loss: 0.016667272097298076, val loss: 0.7871860265731812
+Kfold: 2 ::: epoch: 1000, loss: 0.011417235447359937, val loss: 0.7823646068572998
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 3 ::: epoch: 200, loss: 0.04896387617502894, val loss: 0.9213487207889557
+Kfold: 3 ::: epoch: 400, loss: 0.02255923194544656, val loss: 0.8471795916557312
+Kfold: 3 ::: epoch: 600, loss: 0.01642767379858664, val loss: 0.8047488331794739
+Kfold: 3 ::: epoch: 800, loss: 0.014400254935026169, val loss: 0.7763713896274567
+Kfold: 3 ::: epoch: 1000, loss: 0.0164974999747106, val loss: 0.7707914710044861
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 4 ::: epoch: 200, loss: 0.04077123664319515, val loss: 0.9930734634399414
+Kfold: 4 ::: epoch: 400, loss: 0.023926302125411376, val loss: 0.8650920391082764
+Kfold: 4 ::: epoch: 600, loss: 0.018565600604883263, val loss: 0.8250603079795837
+Kfold: 4 ::: epoch: 800, loss: 0.011943191822086061, val loss: 0.786275714635849
+Kfold: 4 ::: epoch: 1000, loss: 0.011921975495559829, val loss: 0.7892797291278839
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 5 ::: epoch: 200, loss: 0.04652068391442299, val loss: 0.9631010293960571
+Kfold: 5 ::: epoch: 400, loss: 0.02918059192597866, val loss: 0.8858849108219147
+Kfold: 5 ::: epoch: 600, loss: 0.01744736884055393, val loss: 0.8416163921356201
+Kfold: 5 ::: epoch: 800, loss: 0.013783004534031664, val loss: 0.810909777879715
+Kfold: 5 ::: epoch: 1000, loss: 0.011284095900399345, val loss: 0.7960498929023743
+Nested 4 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 1 ::: epoch: 200, loss: 0.06577681856495994, val loss: 0.8165892660617828
+Kfold: 1 ::: epoch: 400, loss: 0.025101803110114167, val loss: 0.7398993074893951
+Kfold: 1 ::: epoch: 600, loss: 0.02091425218220268, val loss: 0.7098251283168793
+Kfold: 1 ::: epoch: 800, loss: 0.014536482215459858, val loss: 0.6821829676628113
+Kfold: 1 ::: epoch: 1000, loss: 0.01465698451335941, val loss: 0.6556904017925262
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 2 ::: epoch: 200, loss: 0.05125517398118973, val loss: 1.0333720743656158
+Kfold: 2 ::: epoch: 400, loss: 0.025816950148769786, val loss: 0.9206430912017822
+Kfold: 2 ::: epoch: 600, loss: 0.01935741917363235, val loss: 0.8342588245868683
+Kfold: 2 ::: epoch: 800, loss: 0.01396615750023297, val loss: 0.8064498603343964
+Kfold: 2 ::: epoch: 1000, loss: 0.015515051516039031, val loss: 0.7700530290603638
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 3 ::: epoch: 200, loss: 0.043555120272295814, val loss: 0.865534782409668
+Kfold: 3 ::: epoch: 400, loss: 0.02637785513486181, val loss: 0.7480174005031586
+Kfold: 3 ::: epoch: 600, loss: 0.015952883454571878, val loss: 0.6921152770519257
+Kfold: 3 ::: epoch: 800, loss: 0.014625069020049912, val loss: 0.6547034382820129
+Kfold: 3 ::: epoch: 1000, loss: 0.016816555256290094, val loss: 0.6293051242828369
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 4 ::: epoch: 200, loss: 0.04115754525576319, val loss: 0.9731433093547821
+Kfold: 4 ::: epoch: 400, loss: 0.022460066713392735, val loss: 0.8461205959320068
+Kfold: 4 ::: epoch: 600, loss: 0.017346811347774098, val loss: 0.7750650942325592
+Kfold: 4 ::: epoch: 800, loss: 0.012492324292127575, val loss: 0.751442164182663
+Kfold: 4 ::: epoch: 1000, loss: 0.010704398753919772, val loss: 0.7436680197715759
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        Kfold: 5 ::: epoch: 200, loss: 0.05221090306128774, val loss: 0.9942870140075684
+Kfold: 5 ::: epoch: 400, loss: 0.02515711808311088, val loss: 0.8963587880134583
+Kfold: 5 ::: epoch: 600, loss: 0.016844604962638447, val loss: 0.8571864366531372
+Kfold: 5 ::: epoch: 800, loss: 0.01534838562033006, val loss: 0.828059196472168
+Kfold: 5 ::: epoch: 1000, loss: 0.012892772709684712, val loss: 0.8061242997646332
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.055834461003541946, val loss: 0.9722369909286499
+Kfold: 1 ::: epoch: 400, loss: 0.025454806962183545, val loss: 0.8698031306266785
+Kfold: 1 ::: epoch: 600, loss: 0.01776157838425466, val loss: 0.8335374593734741
+Kfold: 1 ::: epoch: 800, loss: 0.01327017042785883, val loss: 0.7991165816783905
+Kfold: 1 ::: epoch: 1000, loss: 0.011515540603016104, val loss: 0.7851914465427399
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                            Kfold: 2 ::: epoch: 200, loss: 0.043869814170258384, val loss: 1.170668125152588
+Kfold: 2 ::: epoch: 400, loss: 0.01964137703180313, val loss: 1.0496792197227478
+Kfold: 2 ::: epoch: 600, loss: 0.017745902495724813, val loss: 0.9970795214176178
+Kfold: 2 ::: epoch: 800, loss: 0.014216456296188491, val loss: 0.9677956998348236
+Kfold: 2 ::: epoch: 1000, loss: 0.01191522234252521, val loss: 0.9333019554615021
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                           Kfold: 3 ::: epoch: 200, loss: 0.03981640615633556, val loss: 1.0524579882621765
+Kfold: 3 ::: epoch: 400, loss: 0.01922419747071607, val loss: 0.9375299215316772
+Kfold: 3 ::: epoch: 600, loss: 0.016151316996131624, val loss: 0.8766859769821167
+Kfold: 3 ::: epoch: 800, loss: 0.012715679460338183, val loss: 0.8549160957336426
+Kfold: 3 ::: epoch: 1000, loss: 0.010868020089609283, val loss: 0.846798837184906
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                             Kfold: 4 ::: epoch: 200, loss: 0.05318966561130115, val loss: 1.2252129912376404
+Kfold: 4 ::: epoch: 400, loss: 0.023378324827977588, val loss: 1.052364557981491
+Kfold: 4 ::: epoch: 600, loss: 0.013728514313697815, val loss: 0.9760173261165619
+Kfold: 4 ::: epoch: 800, loss: 0.011415630778563874, val loss: 0.939171314239502
+Kfold: 4 ::: epoch: 1000, loss: 0.009233434817620687, val loss: 0.9194259941577911
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                          Kfold: 5 ::: epoch: 200, loss: 0.043961199798754284, val loss: 0.9763002991676331
+Kfold: 5 ::: epoch: 400, loss: 0.0252227745950222, val loss: 0.9116896092891693
+Kfold: 5 ::: epoch: 600, loss: 0.01686729770153761, val loss: 0.8848640620708466
+Kfold: 5 ::: epoch: 800, loss: 0.014102301161204065, val loss: 0.8742521405220032
+Kfold: 5 ::: epoch: 1000, loss: 0.013104451155023915, val loss: 0.8500442206859589
+Nested 4 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         Kfold: 1 ::: epoch: 200, loss: 0.04872337808566434, val loss: 0.8744425177574158
+Kfold: 1 ::: epoch: 400, loss: 0.02211474414382662, val loss: 0.8059099912643433
+Kfold: 1 ::: epoch: 600, loss: 0.019653852230736187, val loss: 0.7855847179889679
+Kfold: 1 ::: epoch: 800, loss: 0.013012714750532593, val loss: 0.7652337551116943
+Kfold: 1 ::: epoch: 1000, loss: 0.014018652561519827, val loss: 0.7700797021389008
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.04176191107503006, val loss: 1.1667145490646362
+Kfold: 2 ::: epoch: 400, loss: 0.022472470998764038, val loss: 1.0507407784461975
+Kfold: 2 ::: epoch: 600, loss: 0.01847896192755018, val loss: 0.9852319955825806
+Kfold: 2 ::: epoch: 800, loss: 0.012825224548578262, val loss: 0.9473146796226501
+Kfold: 2 ::: epoch: 1000, loss: 0.009860635003341096, val loss: 0.9103721678256989
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.039950866518276076, val loss: 1.0552840530872345
+Kfold: 3 ::: epoch: 400, loss: 0.020712432185454027, val loss: 0.9740655422210693
+Kfold: 3 ::: epoch: 600, loss: 0.018286170437932014, val loss: 0.925984799861908
+Kfold: 3 ::: epoch: 800, loss: 0.011938745954207011, val loss: 0.9042458236217499
+Kfold: 3 ::: epoch: 1000, loss: 0.011159475759736128, val loss: 0.8735885322093964
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.052339608647993634, val loss: 1.29659104347229
+Kfold: 4 ::: epoch: 400, loss: 0.025108314252325466, val loss: 1.1814082264900208
+Kfold: 4 ::: epoch: 600, loss: 0.014737591679607118, val loss: 1.084271103143692
+Kfold: 4 ::: epoch: 800, loss: 0.011001988047999995, val loss: 1.0488109588623047
+Kfold: 4 ::: epoch: 1000, loss: 0.012353645637631416, val loss: 1.0203076601028442
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                       Kfold: 5 ::: epoch: 200, loss: 0.0434397142380476, val loss: 0.9631944298744202
+Kfold: 5 ::: epoch: 400, loss: 0.024353782247219766, val loss: 0.9165155589580536
+Kfold: 5 ::: epoch: 600, loss: 0.018393312181745256, val loss: 0.8970750272274017
+Kfold: 5 ::: epoch: 800, loss: 0.012359790969640017, val loss: 0.8861729800701141
+Kfold: 5 ::: epoch: 1000, loss: 0.011535235547593661, val loss: 0.8764640688896179
+Nested 5 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.0449807308614254, val loss: 0.9860651195049286
+Kfold: 1 ::: epoch: 400, loss: 0.023156972602009773, val loss: 0.9062190651893616
+Kfold: 1 ::: epoch: 600, loss: 0.018347939742462977, val loss: 0.882484495639801
+Kfold: 1 ::: epoch: 800, loss: 0.014463479497603007, val loss: 0.864398717880249
+Kfold: 1 ::: epoch: 1000, loss: 0.010650211412991797, val loss: 0.8606433868408203
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.038836773218853135, val loss: 1.0240710973739624
+Kfold: 2 ::: epoch: 400, loss: 0.02137554343789816, val loss: 0.9211921095848083
+Kfold: 2 ::: epoch: 600, loss: 0.015614634512790613, val loss: 0.8943552076816559
+Kfold: 2 ::: epoch: 800, loss: 0.013654227102441447, val loss: 0.8647146821022034
+Kfold: 2 ::: epoch: 1000, loss: 0.009639152525258916, val loss: 0.8464874923229218
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.035364048555493355, val loss: 0.9438548684120178
+Kfold: 3 ::: epoch: 400, loss: 0.020565847334052836, val loss: 0.892357736825943
+Kfold: 3 ::: epoch: 600, loss: 0.017033960404140607, val loss: 0.8774003386497498
+Kfold: 3 ::: epoch: 800, loss: 0.01191720153604235, val loss: 0.8729210793972015
+Kfold: 3 ::: epoch: 1000, loss: 0.009150402936419206, val loss: 0.851294070482254
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                       Kfold: 4 ::: epoch: 200, loss: 0.0536008636866297, val loss: 0.8675313889980316
+Kfold: 4 ::: epoch: 400, loss: 0.023586870836360112, val loss: 0.793456494808197
+Kfold: 4 ::: epoch: 600, loss: 0.014575185919446605, val loss: 0.7548311650753021
+Kfold: 4 ::: epoch: 800, loss: 0.01175195031932422, val loss: 0.7466903626918793
+Kfold: 4 ::: epoch: 1000, loss: 0.009553530120423861, val loss: 0.7351714670658112
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.03851472293691976, val loss: 1.0387881994247437
+Kfold: 5 ::: epoch: 400, loss: 0.023318413378936902, val loss: 0.9939166903495789
+Kfold: 5 ::: epoch: 600, loss: 0.017550758219191005, val loss: 0.9785844385623932
+Kfold: 5 ::: epoch: 800, loss: 0.011866262781300716, val loss: 0.9763129353523254
+Kfold: 5 ::: epoch: 1000, loss: 0.01125368954879897, val loss: 0.954856276512146
+Nested 1 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                       Kfold: 1 ::: epoch: 200, loss: 0.020977531774685934, val loss: 0.8640561699867249
+Kfold: 1 ::: epoch: 400, loss: 0.010286913719028234, val loss: 0.8464989960193634
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 2 ::: epoch: 200, loss: 0.018247670852220975, val loss: 0.8838914483785629
+Kfold: 2 ::: epoch: 400, loss: 0.014326671245866097, val loss: 0.9117998331785202
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.018569814757658884, val loss: 1.2580526471138
+Kfold: 3 ::: epoch: 400, loss: 0.009720558694635447, val loss: 1.2612869441509247
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                       Kfold: 4 ::: epoch: 200, loss: 0.01657724194228649, val loss: 1.4367157220840454
+Kfold: 4 ::: epoch: 400, loss: 0.00893003300118905, val loss: 1.4813458025455475
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 5 ::: epoch: 200, loss: 0.023858236005673043, val loss: 1.037196308374405
+Kfold: 5 ::: epoch: 400, loss: 0.009642286548534265, val loss: 1.0967796742916107
+early stopping
+Nested 2 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 1 ::: epoch: 200, loss: 0.021179496955413084, val loss: 0.8070559799671173
+Kfold: 1 ::: epoch: 400, loss: 0.010718996170908213, val loss: 0.7994559854269028
+early stopping
+Let's use 4 GPUs!
+Kfold: 2 ::: epoch: 200, loss: 0.018079189225458182, val loss: 1.2452450692653656
+Kfold: 2 ::: epoch: 400, loss: 0.01026808345117248, val loss: 1.262861430644989
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 3 ::: epoch: 200, loss: 0.017554183168193467, val loss: 1.1757943779230118
+Kfold: 3 ::: epoch: 400, loss: 0.010141891713898916, val loss: 1.1148762106895447
+Kfold: 3 ::: epoch: 600, loss: 0.008235697437507601, val loss: 1.0195931941270828
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.018541428761986587, val loss: 0.7866733223199844
+Kfold: 4 ::: epoch: 400, loss: 0.013310949246470746, val loss: 0.7111055999994278
+Kfold: 4 ::: epoch: 600, loss: 0.012372145787454568, val loss: 0.6835481971502304
+Let's use 4 GPUs!
+                                                                                                                                                                                                  Kfold: 5 ::: epoch: 200, loss: 0.022050530219880436, val loss: 0.6223613172769547
+Kfold: 5 ::: epoch: 400, loss: 0.012582878044878062, val loss: 0.6623995304107666
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+Kfold: 1 ::: epoch: 200, loss: 0.027538953707195245, val loss: 0.6700345054268837
+Kfold: 1 ::: epoch: 400, loss: 0.013968386973899145, val loss: 0.6185059100389481
+Kfold: 1 ::: epoch: 600, loss: 0.008043417026503729, val loss: 0.5710860937833786
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Kfold: 2 ::: epoch: 200, loss: 0.02302504789370757, val loss: 0.5957423001527786
+Kfold: 2 ::: epoch: 400, loss: 0.009925430354017478, val loss: 0.574105016887188
+Kfold: 2 ::: epoch: 600, loss: 0.008519610103506308, val loss: 0.5548306070268154
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 3 ::: epoch: 200, loss: 0.026307854658136003, val loss: 0.8806946724653244
+Kfold: 3 ::: epoch: 400, loss: 0.013747267747441163, val loss: 0.8318410366773605
+Kfold: 3 ::: epoch: 600, loss: 0.011229121376975225, val loss: 0.8130853921175003
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 4 ::: epoch: 200, loss: 0.019223497320826236, val loss: 0.8328703939914703
+Kfold: 4 ::: epoch: 400, loss: 0.010779533714342576, val loss: 0.766058161854744
+Kfold: 4 ::: epoch: 600, loss: 0.008602181342072211, val loss: 0.7174462974071503
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                       Kfold: 5 ::: epoch: 200, loss: 0.02294445797227896, val loss: 0.6034069955348969
+Kfold: 5 ::: epoch: 400, loss: 0.012756879226519512, val loss: 0.6173356249928474
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                   Kfold: 1 ::: epoch: 200, loss: 0.02993565547065093, val loss: 0.6674127578735352
+Kfold: 1 ::: epoch: 400, loss: 0.014565297474081699, val loss: 0.610258087515831
+Kfold: 1 ::: epoch: 600, loss: 0.0071487409205963975, val loss: 0.5883035659790039
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                     Kfold: 2 ::: epoch: 200, loss: 0.02200615878861684, val loss: 0.5487508028745651
+Kfold: 2 ::: epoch: 400, loss: 0.010569256336356584, val loss: 0.5348704513162374
+Kfold: 2 ::: epoch: 600, loss: 0.008161117967504721, val loss: 0.5185093618929386
+Let's use 4 GPUs!
+                                                                                                                                                                                                   Kfold: 3 ::: epoch: 200, loss: 0.02781490680689995, val loss: 0.753386914730072
+Kfold: 3 ::: epoch: 400, loss: 0.012741306474289069, val loss: 0.7031105160713196
+Kfold: 3 ::: epoch: 600, loss: 0.011100567913112732, val loss: 0.6990318149328232
+Let's use 4 GPUs!
+                                                                                                                                                                                                   Kfold: 4 ::: epoch: 200, loss: 0.019305505646535985, val loss: 0.7948060780763626
+Kfold: 4 ::: epoch: 400, loss: 0.010234569700864645, val loss: 0.7310713082551956
+Kfold: 4 ::: epoch: 600, loss: 0.00834800790135677, val loss: 0.6881257146596909
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                       Kfold: 5 ::: epoch: 200, loss: 0.021698161458166745, val loss: 0.6025860533118248
+Kfold: 5 ::: epoch: 400, loss: 0.012209758699799959, val loss: 0.5925574451684952
+Kfold: 5 ::: epoch: 600, loss: 0.007997660467830988, val loss: 0.581273578107357
+Nested 5 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                   Kfold: 1 ::: epoch: 200, loss: 0.02445462582489619, val loss: 0.5804645866155624
+Kfold: 1 ::: epoch: 400, loss: 0.015364118206959505, val loss: 0.5311211347579956
+Kfold: 1 ::: epoch: 600, loss: 0.00790333396826799, val loss: 0.5334808528423309
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 2 ::: epoch: 200, loss: 0.022686532555291287, val loss: 0.5768122654408216
+Kfold: 2 ::: epoch: 400, loss: 0.010832421589069642, val loss: 0.5546453855931759
+Kfold: 2 ::: epoch: 600, loss: 0.007684467360377312, val loss: 0.5657547935843468
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 3 ::: epoch: 200, loss: 0.024846249260008335, val loss: 0.7394564896821976
+Kfold: 3 ::: epoch: 400, loss: 0.013568803381461363, val loss: 0.7509653717279434
+Kfold: 3 ::: epoch: 600, loss: 0.011488811829342293, val loss: 0.6838681399822235
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                      Kfold: 4 ::: epoch: 200, loss: 0.018301777040156033, val loss: 0.4260964058339596
+Kfold: 4 ::: epoch: 400, loss: 0.011306887994018884, val loss: 0.4029475748538971
+Kfold: 4 ::: epoch: 600, loss: 0.007564945934483638, val loss: 0.4082425907254219
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                      Kfold: 5 ::: epoch: 200, loss: 0.022518611083237026, val loss: 0.8772385716438293
+Kfold: 5 ::: epoch: 400, loss: 0.015078845971192304, val loss: 0.8726149648427963
+Kfold: 5 ::: epoch: 600, loss: 0.008549356456989279, val loss: 0.8269068151712418
+early stopping
+Nested 1 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                      Kfold: 1 ::: epoch: 200, loss: 0.02175273119400327, val loss: 0.5869835764169693
+Kfold: 1 ::: epoch: 400, loss: 0.017101978453306053, val loss: 0.5485887974500656
+Kfold: 1 ::: epoch: 600, loss: 0.007641414332633408, val loss: 0.48629891127347946
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                       Kfold: 2 ::: epoch: 200, loss: 0.025563766391804583, val loss: 0.5454369187355042
+Kfold: 2 ::: epoch: 400, loss: 0.012646221054288058, val loss: 0.5378435701131821
+Kfold: 2 ::: epoch: 600, loss: 0.006706685974047734, val loss: 0.5046465620398521
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 3 ::: epoch: 200, loss: 0.01888198036557207, val loss: 1.00934499502182
+Kfold: 3 ::: epoch: 400, loss: 0.013278653272069417, val loss: 1.1244834661483765
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                   Kfold: 4 ::: epoch: 200, loss: 0.0208037391018409, val loss: 0.9601000249385834
+Kfold: 4 ::: epoch: 400, loss: 0.012557377179081623, val loss: 0.8856170773506165
+Kfold: 4 ::: epoch: 600, loss: 0.007672023708717181, val loss: 0.8731633424758911
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 5 ::: epoch: 200, loss: 0.02298602404502722, val loss: 0.6260147839784622
+Kfold: 5 ::: epoch: 400, loss: 0.012037596736962978, val loss: 0.6331663429737091
+early stopping
+Nested 2 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                  Kfold: 1 ::: epoch: 200, loss: 0.02030325050537403, val loss: 0.5396725460886955
+Kfold: 1 ::: epoch: 400, loss: 0.016996536690455217, val loss: 0.5087450817227364
+Kfold: 1 ::: epoch: 600, loss: 0.0076886167158730905, val loss: 0.44356194883584976
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                      Kfold: 2 ::: epoch: 200, loss: 0.0253142210153433, val loss: 0.6346844583749771
+Kfold: 2 ::: epoch: 400, loss: 0.012215210554691462, val loss: 0.6661240607500076
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                               Kfold: 3 ::: epoch: 200, loss: 0.016576152438154586, val loss: 0.7412579953670502
+Kfold: 3 ::: epoch: 400, loss: 0.009214262316863123, val loss: 0.7697012424468994
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                     Kfold: 4 ::: epoch: 200, loss: 0.018193063756021168, val loss: 1.4608710706233978
+Kfold: 4 ::: epoch: 400, loss: 0.00848675469079843, val loss: 1.4455889612436295
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                    Kfold: 5 ::: epoch: 200, loss: 0.019188613917392034, val loss: 0.7734519988298416
+Kfold: 5 ::: epoch: 400, loss: 0.011568516242102934, val loss: 0.7666523158550262
+early stopping
+Nested 3 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                  Kfold: 1 ::: epoch: 200, loss: 0.020187596002450355, val loss: 0.5789025127887726
+Kfold: 1 ::: epoch: 400, loss: 0.014107765128406195, val loss: 0.5992449373006821
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 2 ::: epoch: 200, loss: 0.019052051652509432, val loss: 0.5358744841068983
+Kfold: 2 ::: epoch: 400, loss: 0.01151139593611543, val loss: 0.5254228226840496
+Kfold: 2 ::: epoch: 600, loss: 0.006893567006605176, val loss: 0.513182520866394
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.01735701308084222, val loss: 0.8639093041419983
+Kfold: 3 ::: epoch: 400, loss: 0.01196128368162765, val loss: 1.0263222754001617
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                    Kfold: 4 ::: epoch: 200, loss: 0.017203245383615676, val loss: 1.1054514795541763
+Kfold: 4 ::: epoch: 400, loss: 0.011690221905994874, val loss: 1.08790984749794
+Kfold: 4 ::: epoch: 600, loss: 0.008870489322222196, val loss: 1.139423444867134
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                       Kfold: 5 ::: epoch: 200, loss: 0.025193893279020604, val loss: 0.6800571233034134
+Kfold: 5 ::: epoch: 400, loss: 0.013251843145833565, val loss: 0.6360323876142502
+Kfold: 5 ::: epoch: 600, loss: 0.011483120552908916, val loss: 0.6533160507678986
+early stopping
+Nested 4 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                     Kfold: 1 ::: epoch: 200, loss: 0.01786539130485975, val loss: 0.5345948487520218
+Kfold: 1 ::: epoch: 400, loss: 0.01627822651957663, val loss: 0.5083714723587036
+Kfold: 1 ::: epoch: 600, loss: 0.009304056839587597, val loss: 0.5052499324083328
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                                   Kfold: 2 ::: epoch: 200, loss: 0.02009196034990824, val loss: 0.49977273121476173
+Kfold: 2 ::: epoch: 400, loss: 0.010823402267235976, val loss: 0.4946981482207775
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                         Kfold: 3 ::: epoch: 200, loss: 0.018191018643287513, val loss: 0.45868969336152077
+Kfold: 3 ::: epoch: 400, loss: 0.013484537422370452, val loss: 0.4590428061783314
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                     Kfold: 4 ::: epoch: 200, loss: 0.022639835396638282, val loss: 0.9116580039262772
+Kfold: 4 ::: epoch: 400, loss: 0.010393992030563263, val loss: 0.8695404231548309
+Kfold: 4 ::: epoch: 600, loss: 0.007359746324184995, val loss: 0.8549492210149765
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 5 ::: epoch: 200, loss: 0.02281982064820253, val loss: 0.7136529386043549
+Kfold: 5 ::: epoch: 400, loss: 0.01282137969078926, val loss: 0.6471333429217339
+Kfold: 5 ::: epoch: 600, loss: 0.008743834825089345, val loss: 0.6097237318754196
+Nested 5 Fold
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                       Kfold: 1 ::: epoch: 200, loss: 0.016873696747307595, val loss: 0.5204798430204391
+Kfold: 1 ::: epoch: 400, loss: 0.015538603210678468, val loss: 0.5320638716220856
+Kfold: 1 ::: epoch: 600, loss: 0.008689395796794157, val loss: 0.49514878541231155
+Let's use 4 GPUs!
+                                                                                                                                                                                                                   Kfold: 2 ::: epoch: 200, loss: 0.020637384830759123, val loss: 0.5619950816035271
+Kfold: 2 ::: epoch: 400, loss: 0.009630663463702569, val loss: 0.5789903253316879
+early stopping
+Let's use 4 GPUs!
+Kfold: 3 ::: epoch: 200, loss: 0.022512366637014426, val loss: 0.5298868343234062
+Kfold: 3 ::: epoch: 400, loss: 0.013662500056223227, val loss: 0.48937052860856056
+early stopping
+Let's use 4 GPUs!
+                                                                                                                                                                                                                                                                        Kfold: 4 ::: epoch: 200, loss: 0.022625063331081316, val loss: 0.4368784800171852
+Kfold: 4 ::: epoch: 400, loss: 0.012911644191122972, val loss: 0.3951134979724884
+Kfold: 4 ::: epoch: 600, loss: 0.008269005383436497, val loss: 0.3766826670616865
+Let's use 4 GPUs!
+                                                                                                                                                                                                     Kfold: 5 ::: epoch: 200, loss: 0.021089745613817986, val loss: 1.3630797415971756
+Kfold: 5 ::: epoch: 400, loss: 0.008719873829529835, val loss: 1.3430649191141129
+Kfold: 5 ::: epoch: 600, loss: 0.006865649215447215, val loss: 1.438903108239174
+early stopping
+Kfold: 3 ::: epoch: 200, loss: 0.02029400046628255, val loss: 0.7404724359512329
+Kfold: 3 ::: epoch: 400, loss: 0.012662693714866271, val loss: 0.7197543978691101
+Kfold: 3 ::: epoch: 600, loss: 0.008013829159048887, val loss: 0.7234748750925064
+early stopping
+Let's use 4 GPUs!
+Kfold: 4 ::: epoch: 200, loss: 0.017620379463411294, val loss: 1.043076068162918
+Kfold: 4 ::: epoch: 400, loss: 0.008275775776173059, val loss: 1.125993937253952
+early stopping
+Let's use 4 GPUs!
+Kfold: 5 ::: epoch: 200, loss: 0.016792358042528994, val loss: 1.2947284579277039
+Kfold: 5 ::: epoch: 400, loss: 0.008473061562444154, val loss: 1.3757318258285522
+early stopping

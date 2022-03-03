@@ -1,0 +1,39 @@
+Traceback (most recent call last):
+  File "age_predict_transformer.py", line 111, in <module>
+    batch_size = 16
+  File "age_predict_transformer.py", line 88, in nested_predict
+    batch_size = batch_size
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 277, in train_model
+    loss, preds = val_step(x,t,model)
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 92, in val_step
+    preds = model(x)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/module.py", line 63, in forward
+    x = self.transformer_encoder(x)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 198, in forward
+    output = mod(output, src_mask=mask, src_key_padding_mask=src_key_padding_mask)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 339, in forward
+    x = self.norm1(x + self._sa_block(x, src_mask, src_key_padding_mask))
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 350, in _sa_block
+    need_weights=False)[0]
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/modules/activation.py", line 1010, in forward
+    attn_mask=attn_mask)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 5101, in multi_head_attention_forward
+    attn_output, attn_output_weights = _scaled_dot_product_attention(q, k, v, attn_mask, dropout_p)
+  File "/home/1/16B14626/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 4851, in _scaled_dot_product_attention
+    output = torch.bmm(attn, v)
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 15.90 GiB total capacity; 6.61 GiB already allocated; 12.38 MiB free; 6.69 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "age_predict_transformer.py", line 22, in <module>
+    from my_def import transform_float_read
+  File "/home/1/16B14626/t3workspace/work_shimane/03_script/my_def.py", line 774
+    else:
+        ^
+IndentationError: unindent does not match any outer indentation level
